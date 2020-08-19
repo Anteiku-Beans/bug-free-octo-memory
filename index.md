@@ -4,84 +4,103 @@
 
 ## 1. Scoping
 
-* List all pages required for the site
-* List all features & functionality
+We define all the features you need for your site.
+
+* List of pages
 * Define any offsite functionality
 * Define customer journeys (e.g. What are the steps from landing on your site to checking out?)
-* Define workflows (e.g. What is the process for adding a new event to the site?)
-* Back-and-forth process. Client to provide feedback
+* Define admin user workflows (e.g. What is the process for adding a new event to the site?)
 
 ## 2. Prototype
+
+We create a prototype that has all the features defined in the previous step.
 
 * Create a mockup of how the site works
 * Includes clicks, redirects, general layout...
 * But does not include actual design, images, colors, etc
 * Used to test functionality and if required, edit the scope
-* Back-and-forth process. Client to provide feedback
 
 ## 3. UI Design 
 
-* Design website layout
-* Design website UI
+We design the look of the website.
+
+* Design website layout & UI
 * Source Graphics, Images, Icons and Photos
 * Create an interactive mockup of the site
-* Back-and-forth process. Client to provide feedback
 
 ## 4. Development
 
-* Basic setup
-* SSL Setup
+* Website setup
 * Inventory system
 * Browse/Search system
-* Festival Pages
-* Security & Backups
+* Festival Pages and workflow
 * Payment Gateway
-* Email Setup
-* Email Autoresponders
-* New Festival/Product workflow
+* Security & Backups
+* Email Setup & Basic transactional emails
 
-# Pricing
+# Other Costs
 
-A high estimate is provided below. Prices could be lower depending on scope (see below).
+## Hosting + Domain Name
 
-## Developer Costs
+Hosting is like buying land for your house. Without it, you can't build anything. The Domain Name is the "www.alex.com" part of your website. It's like putting a custom number plate on your car.
 
-* Scoping: $150
-* Tech Prototype: $450
-* UI Design: $2500
-* Development: $3000
+* Hosting: $40/month
+* Domain Name: ~$1/month
 
-## Third Party Mandatory Costs:
+## Merchant Fees
 
-Ongoing costs of owning a website. Not part of development costs:
+Since you're taking online payments, you will pay fees on all your transaction. Typically, this is 2-3%. Depending on whether what kind of card the customer pays with.
 
-* Domain Name: $13/year
-* Hosting: $40/month (for a low-traffic site)
+# Summary
 
-## Third Party Addons:
+<table>
+  <thead>
+    <tr>
+      <td>Description</td>
+      <td>Est. Time</td>
+      <td>Cost</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Scoping</td>
+      <td>1 week</td>
+      <td>$150</td>
+    </tr>
+    <tr>
+      <td>Prototype</td>
+      <td>2 weeks</td>
+      <td>$450</td>
+    </tr>
+    <tr>
+      <td>Design</td>
+      <td>6 weeks</td>
+      <td>$2,500</td>
+    </tr>
+    <tr>
+      <td>Build</td>
+      <td>9 weeks</td>
+      <td>$3,000</td>
+    </tr>
+    <tr>
+      <td>Domain + Hosting</td>
+      <td>---</td>
+      <td>$41/month</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>4.5 months</td>
+      <td>$6,100 + $41/month</td>
+    </tr>
+  </tobdy>
+</table>
 
-For some functionalities, it might not make sense to custom-develop them. Instead, we would use a third party plugin/addon instead. This 10x cheaper than developing them from scratch.
+# Possible cost reductions
 
-The following won't be added into the grand total, but it gives you an idea of what to expect if you want extra functionality:
+## Design
 
-* Social Proof (popups that read "John from Canley Heights just purchased xyz product 2 minutes ago"): ~$15/month
-* Custom Email Marketing: $15/month (increases the more customers you have)
+It takes a lot of work to design a site from scratch. But you could also use a pre-made theme and make slight modifications to it.
 
+In general, if you just want your site to look "nice", you can use a pre-made theme and make "tweaks" to it to make it look unique and add your own branding to it. 
 
-Total Cost:
-  Developer: $6,100
-  Third Party Mandatory: $53/month
-  Third Party Addons: $33/month
-  Grand Total: $6,100 + $86/month
-
-
-No Design:
-  $4,100 + $86/month
-  Less customisable
-  Can do tweaks here and there but some customizations won't be possible
-
-
-Bare Bones Version (shopify):
-  One product (bundle) per festival
-  
-
+However, if you need to make lots of tweaks and you are very particular about every little detail, it's better to create a custom design.
