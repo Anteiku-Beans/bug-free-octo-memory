@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+# Overview of Process
 
-You can use the [editor on GitHub](https://github.com/Anteiku-Beans/bug-free-octo-memory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+4 Step Process. More time spent onearly stages (scoping and prototyping) saves money and time on the later (and more expensive) stages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Scoping
 
-### Markdown
+* List all pages required for the site
+* List all features & functionality
+* Define any offsite functionality
+* Define customer journeys (e.g. What are the steps from landing on your site to checking out?)
+* Define workflows (e.g. What is the process for adding a new event to the site?)
+* Back-and-forth process. Client to provide feedback
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2. Prototype
 
-```markdown
-Syntax highlighted code block
+* Create a mockup of how the site works
+* Includes clicks, redirects, general layout...
+* But does not include actual design, images, colors, etc
+* Used to test functionality and if required, edit the scope
+* Back-and-forth process. Client to provide feedback
 
-# Header 1
-## Header 2
-### Header 3
+## 3. UI Design 
 
-- Bulleted
-- List
+* Design website layout
+* Design website UI
+* Source Graphics, Images, Icons and Photos
+* Create an interactive mockup of the site
+* Back-and-forth process. Client to provide feedback
 
-1. Numbered
-2. List
+## 4. Development
 
-**Bold** and _Italic_ and `Code` text
+* Basic setup
+* SSL Setup
+* Inventory system
+* Browse/Search system
+* Festival Pages
+* Security & Backups
+* Payment Gateway
+* Email Setup
+* Email Autoresponders
+* New Festival/Product workflow
 
-[Link](url) and ![Image](src)
-```
+# Pricing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A high estimate is provided below. Prices could be lower depending on scope (see below).
 
-### Jekyll Themes
+## Developer Costs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anteiku-Beans/bug-free-octo-memory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Scoping: $150
+* Tech Prototype: $450
+* UI Design: $2500
+* Development: $3000
 
-### Support or Contact
+## Third Party Mandatory Costs:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ongoing costs of owning a website. Not part of development costs:
+
+* Domain Name: $13/year
+* Hosting: $40/month (for a low-traffic site)
+
+## Third Party Addons:
+
+For some functionalities, it might not make sense to custom-develop them. Instead, we would use a third party plugin/addon instead. This 10x cheaper than developing them from scratch.
+
+The following won't be added into the grand total, but it gives you an idea of what to expect if you want extra functionality:
+
+* Social Proof (popups that read "John from Canley Heights just purchased xyz product 2 minutes ago"): ~$15/month
+* Custom Email Marketing: $15/month (increases the more customers you have)
+
+
+Total Cost:
+  Developer: $6,100
+  Third Party Mandatory: $53/month
+  Third Party Addons: $33/month
+  Grand Total: $6,100 + $86/month
+
+
+No Design:
+  $4,100 + $86/month
+  Less customisable
+  Can do tweaks here and there but some customizations won't be possible
+
+
+Bare Bones Version (shopify):
+  One product (bundle) per festival
+  
+
