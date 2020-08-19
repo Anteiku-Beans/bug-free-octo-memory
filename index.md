@@ -92,7 +92,7 @@ Since you're taking online payments, you will pay fees on all your transaction. 
       <td>4.5 months</td>
       <td>$6,100 + $41/month</td>
     </tr>
-  </tobdy>
+  </tbody>
 </table>
 
 # Possible cost reductions
