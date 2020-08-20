@@ -94,13 +94,3 @@ Since you're taking online payments, you will pay fees on all your transaction. 
     </tr>
   </tbody>
 </table>
-
-# Possible cost reductions
-
-## Design
-
-It takes a lot of work to design a site from scratch. But you could also use a pre-made theme and make slight modifications to it.
-
-In general, if you just want your site to look "nice", you can use a pre-made theme and make "tweaks" to it to make it look unique and add your own branding to it. 
-
-However, if you need to make lots of tweaks and you are very particular about every little detail, it's better to create a custom design.
