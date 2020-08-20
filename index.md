@@ -94,3 +94,16 @@ Since you're taking online payments, you will pay fees on all your transaction. 
     </tr>
   </tbody>
 </table>
+
+# Example Themes
+
+<table style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+  <tr valign="top">
+    <td>
+      <img src="/screencapture-demo2-tokomoo-festiven-homepage-v2-2020-08-21-08_10_40.png" loading="lazy" style="width: 100%; height: auto;">
+    </td>
+    <td>
+      <img src="/screencapture-themeisle-demo-2020-08-21-08_10_00.png" loading="lazy" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
