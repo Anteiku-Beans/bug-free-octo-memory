@@ -100,10 +100,10 @@ Since you're taking online payments, you will pay fees on all your transaction. 
 <table style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <tr valign="top">
     <td>
-      <img src="https://anteiku-beans.github.io/bug-free-octo-memory/theme1.png" loading="lazy" style="width: 100%; height: auto;">
+      <img src="theme1.png" loading="lazy" style="width: 100%; height: auto;">
     </td>
     <td>
-      <img src="https://anteiku-beans.github.io/bug-free-octo-memory/theme2.png" loading="lazy" style="width: 100%; height: auto;">
+      <img src="theme2.png" loading="lazy" style="width: 100%; height: auto;">
     </td>
   </tr>
 </table>
